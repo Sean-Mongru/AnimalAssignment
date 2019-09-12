@@ -1,0 +1,7 @@
+C:\Users\SeanM\Source\Repos\AnimalAssignment_SeanMongru\AnimalAssignment_SeanMongru\bin\Debug\AnimalAssignment_SeanMongru.exe.config
+C:\Users\SeanM\Source\Repos\AnimalAssignment_SeanMongru\AnimalAssignment_SeanMongru\bin\Debug\AnimalAssignment_SeanMongru.exe
+C:\Users\SeanM\Source\Repos\AnimalAssignment_SeanMongru\AnimalAssignment_SeanMongru\bin\Debug\AnimalAssignment_SeanMongru.pdb
+C:\Users\SeanM\Source\Repos\AnimalAssignment_SeanMongru\AnimalAssignment_SeanMongru\obj\Debug\AnimalAssignment_SeanMongru.csprojAssemblyReference.cache
+C:\Users\SeanM\Source\Repos\AnimalAssignment_SeanMongru\AnimalAssignment_SeanMongru\obj\Debug\AnimalAssignment_SeanMongru.csproj.CoreCompileInputs.cache
+C:\Users\SeanM\Source\Repos\AnimalAssignment_SeanMongru\AnimalAssignment_SeanMongru\obj\Debug\AnimalAssignment_SeanMongru.exe
+C:\Users\SeanM\Source\Repos\AnimalAssignment_SeanMongru\AnimalAssignment_SeanMongru\obj\Debug\AnimalAssignment_SeanMongru.pdb
